@@ -18,7 +18,7 @@ Then add an `.eslintrc.json` file to the root of your project (see *Documentatio
 ```json
 {
   "extends": [
-    "aller"
+    "@aller/eslint-config-aller"
   ]
 }
 ```
