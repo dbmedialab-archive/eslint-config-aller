@@ -6,7 +6,7 @@ Aller Media's ESLint config.
 Get started by running this command in the root of your project:
 
 ```sh
-yarn add eslint @aller/eslint-config-nrk --dev
+yarn add eslint @aller/eslint-config-aller --dev
 ```
 or
 ```sh
