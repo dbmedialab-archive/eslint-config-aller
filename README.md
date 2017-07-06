@@ -1,4 +1,6 @@
 # eslint-config-aller
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbmedialab/eslint-config-aller.svg)](https://greenkeeper.io/)
 Aller Media's ESLint config.
 
 ## Installation
