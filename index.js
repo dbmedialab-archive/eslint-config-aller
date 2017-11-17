@@ -37,6 +37,7 @@ module.exports = {
       "no-multi-spaces": 0,
       "no-param-reassign": 0,
       "no-shadow": [0],
+      "no-tabs": [0],
       "no-unneeded-ternary": [2, {"defaultAssignment": true}],
       "no-unused-vars": [1, {"vars": "local", "args": "none"}],
       "no-use-before-define": ["error", "nofunc"],
