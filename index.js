@@ -45,6 +45,7 @@ module.exports = {
       "quote-props": [1, "consistent-as-needed"],
       "radix": 0,
       "react/jsx-indent": [2, "tab"],
+      "react/jsx-indent-props": [2, "tab"],
       "react/no-array-index-key": 0,
       "react/no-unused-prop-types": 1,
       "react/prefer-es6-class": 0,
