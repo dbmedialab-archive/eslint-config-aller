@@ -1,6 +1,6 @@
 {
   "name": "@aller/eslint-config-aller",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Aller Media's ESLint config",
   "main": "index.js",
   "scripts": {
