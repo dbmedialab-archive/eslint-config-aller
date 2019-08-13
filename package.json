@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/dbmedialab/eslint-config-aller#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^17.1.0"
+    "eslint-config-airbnb": "^18.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
